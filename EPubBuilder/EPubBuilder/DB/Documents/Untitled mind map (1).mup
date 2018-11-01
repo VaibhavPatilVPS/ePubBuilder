@@ -1,0 +1,248 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "iCE Database",
+      "id": 1,
+      "attr": {
+        "position": [
+          -277,
+          -71,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Login",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "ID",
+              "id": 4
+            },
+            "2": {
+              "title": "Username",
+              "id": 10
+            },
+            "3": {
+              "title": "Password",
+              "id": 12
+            },
+            "4": {
+              "title": "email",
+              "id": 14
+            },
+            "6": {
+              "title": "IsActive",
+              "id": 16
+            },
+            "1.5": {
+              "title": "CLient_ID",
+              "id": 15
+            }
+          },
+          "attr": {
+            "position": [
+              139,
+              -220,
+              10
+            ],
+            "style": {
+              "background": "#008000",
+              "width": 77.3594
+            }
+          }
+        },
+        "3.5": {
+          "title": "CE_Group",
+          "id": 8,
+          "attr": {
+            "position": [
+              142,
+              140,
+              12
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "ID",
+              "id": 27
+            },
+            "2": {
+              "title": "Group_Name",
+              "id": 28
+            },
+            "3": {
+              "title": "Desc",
+              "id": 29
+            },
+            "4": {
+              "title": "IsActive",
+              "id": 30
+            }
+          }
+        },
+        "-10": {
+          "title": "Client",
+          "id": 5,
+          "attr": {
+            "position": [
+              389,
+              -72,
+              16
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Name",
+              "id": 18
+            },
+            "2": {
+              "title": "ID",
+              "id": 19,
+              "attr": {}
+            },
+            "3": {
+              "title": "IsActive",
+              "id": 40
+            }
+          }
+        },
+        "-11": {
+          "title": "Job",
+          "id": 17,
+          "attr": {
+            "position": [
+              244,
+              0,
+              9
+            ]
+          }
+        },
+        "-12": {
+          "title": "Products",
+          "id": 20,
+          "attr": {
+            "position": [
+              293,
+              126,
+              14
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "ID",
+              "id": 32
+            },
+            "2": {
+              "title": "IsActive",
+              "id": 39
+            }
+          }
+        },
+        "-5": {
+          "title": "Project",
+          "id": 34,
+          "attr": {
+            "position": [
+              310,
+              -314,
+              15
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "ID",
+              "id": 35
+            },
+            "2": {
+              "title": "Name",
+              "id": 36
+            },
+            "3": {
+              "title": "Client_ID",
+              "id": 37
+            },
+            "4": {
+              "title": "IsActive",
+              "id": 38
+            }
+          }
+        },
+        "0.5": {
+          "title": "CE_Modules",
+          "id": 7,
+          "attr": {
+            "position": [
+              210,
+              -363,
+              19
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "ID",
+              "id": 21
+            },
+            "2": {
+              "title": "Module_Name",
+              "id": 22
+            },
+            "3": {
+              "title": "Description",
+              "id": 23
+            },
+            "4": {
+              "title": "Group_ID",
+              "id": 24
+            },
+            "5": {
+              "title": "IsActive",
+              "id": 25
+            },
+            "6": {
+              "title": "Is_Global",
+              "id": 26
+            },
+            "2.5": {
+              "title": "Module_Code",
+              "id": 33,
+              "attr": {}
+            }
+          }
+        },
+        "-22": {
+          "title": "Project_Modules_Mapping",
+          "id": 41,
+          "attr": {
+            "style": {
+              "width": 167
+            },
+            "position": [
+              30,
+              277,
+              18
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "ID",
+              "id": 42
+            },
+            "2": {
+              "title": "Project_ID",
+              "id": 43
+            },
+            "3": {
+              "title": "Module_ID",
+              "id": 44
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "iCE Database",
+  "links": []
+}
